@@ -1,0 +1,42 @@
+{
+    "QuestionOne": {
+      "Questionstext": "Was ist Ihr Lieblingshaustier?",
+      "Answers": {
+        "Answer1": {
+          "Text": "Hund",
+          "Type": "Radiobutton",
+          "QuestionOne": {
+            "Text": "Was mögen Sie an Hunden",
+            "Answer1": {
+              "Text": "Das Fell",
+              "Type": "Radiobutton"
+            },
+            "Answer2": {
+              "Text": "Die Möglichkeit zum Trainieren",
+              "Type": "Radiobutton"
+            }
+          },
+          "QuestionTwo": {
+            "Text": "Hatten Sie schonmal einen Hund",
+            "Answer1": {
+              "Text": "Ja",
+              "Type": "Radiobutton"
+            },
+            "Answer2": {
+              "Text": "Nein",
+              "Type": "Radiobutton"
+            }
+          }
+        },
+        "Answer2": {
+          "Text": "Katze",
+          "Type": "Radiobutton"
+        },
+        "Answer3": {
+          "Text": "Maus",
+          "Type": "Radiobutton"
+        }
+      }
+    }
+}
+
